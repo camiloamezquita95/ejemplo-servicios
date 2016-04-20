@@ -1,0 +1,2 @@
+El codigo del archivo syscall.c abre el archivo llamado fichero y lee 20 bytes desde el inicio del archivo e
+imprime la cadena leida en la consola
